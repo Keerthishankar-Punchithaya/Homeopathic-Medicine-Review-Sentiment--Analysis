@@ -35,7 +35,11 @@ Attributes in table - 2:
 
 `review_comments` - Review comments of that product
 
-**2. Dashboarding** </br>
+**2. Sentiment Analysis** </br>
+sentiment analysis library such as NLTK (Natural Language Toolkit) or TextBlob to analyze the sentiment of the extracted review text.
+</br>
+
+**3. Dashboarding** </br>
 Visualization and Reporting done using powerBI
 <br/><br/>
 <img src="https://github.com/Keerthishankar-Punchithaya/Homeopathic-Medicine-Review-Sentiment--Analysis/blob/main/dashboard_pic.png?raw=true" width="455" height="300">
